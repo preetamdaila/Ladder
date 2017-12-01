@@ -13,10 +13,8 @@ We are generating max of 1000 stairs (currently, can be increased). So you can g
 <br>
 <hr>
 <br>
-<img height="640" src="https://github.com/preetamdaila/Ladder/blob/master/1.png" />
-<br>
-<img height="640" src="https://github.com/preetamdaila/Ladder/blob/master/2.png" />
-<br>
-<img height="640" src="https://github.com/preetamdaila/Ladder/blob/master/3.png" />
+<img height="400" src="https://github.com/preetamdaila/Ladder/blob/master/1.png" />
+<img height="400" src="https://github.com/preetamdaila/Ladder/blob/master/2.png" />
+<img height="400" src="https://github.com/preetamdaila/Ladder/blob/master/3.png" />
 <br>
 <hr>
